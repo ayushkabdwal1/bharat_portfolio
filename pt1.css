@@ -1,0 +1,102 @@
+ *{padding: 0; margin:0; box-sizing: border-box; font-family: sans-serif;}
+
+ body {
+  
+  background-image: url("background2.jpg");
+  background-size: cover;
+
+
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+/* Header */
+header {
+
+   background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+}
+
+h1 {
+      margin: 0;
+      font-size: 32px;
+      font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+    }
+
+ p {
+      font-size: 18px;
+      margin-top: 10px;
+      font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+    }
+h2 {
+      margin: 0;
+      font-size: 32px;
+      font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+    }
+
+
+/* About Section */
+#about img {
+  padding: 10px 20px;
+  text-align: center;
+  max-width: 200px; /* Adjust the size as needed */
+  border-radius: 100%; /* If you want a rounded image */
+  margin: 0 auto; /* Center the image */
+  display: flex;
+
+}
+
+/* Skills Section */
+#skills ul {
+  background-color: #FF00FF;
+  padding: 25px 25px;
+  text-align: center;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0px;
+  font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+}
+/* Projects Section */
+.project img {
+
+  border-radius: 8px;
+  max-width: 400px; /* Adjust the size as needed */
+  display: block;
+  margin: 0 auto; /* Center the image */
+  font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+}
+
+/* Contact Section */
+#contact p {
+   background-color: #000080;
+   color: #fff;
+   padding: 40px 20px;
+   text-align: center
+   margin: 0;
+   font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+}
+
+ footer {
+      background-color: #f1f1f1;
+      padding: 20px;
+      text-align: center;
+      
+  font-family: 'Dancing Script', cursive;
+font-family: 'Lumanosimo', cursive;
+
+
+    }
+
+    footer p {
+      margin: 0;
+    }
